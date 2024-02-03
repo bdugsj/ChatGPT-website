@@ -9,4 +9,4 @@ OPENAI_API_KEY = ""
 URL = "https://open.api.gu28.top/v1/chat/completions"
 
 # openAi 代理 api
-# URL = "open.api.gu28.top/v1/chat/completions"
+# URL = "https://open.api.gu28.top/v1/chat/completions"
